@@ -2,6 +2,11 @@
 
 一个基于 Google Labs 的图片生成 API 服务，支持多账号管理、队列机制、可视化配置。
 
+支持edge浏览器安装插件一键导入cookie
+https://microsoftedge.microsoft.com/addons/detail/cookie%E8%8E%B7%E5%8F%96%E5%99%A8/iemdjnhgjmophfndencacnfiommpfjbm
+
+也可以自行导入
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
